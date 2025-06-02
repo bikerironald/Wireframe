@@ -1,6 +1,9 @@
-Here's a **clear and simple wireframe layout** for a **Personal Portfolio Website**, fulfilling the mandatory requirements. The design will focus on simplicity, usability, and a logical user journey.
+#Wireframing: Introduction to UI/UX Design
 
----
+#What is Wireframing
+
+
+
 
 ### 🧭 **Page Layout: One-page scrollable or Multi-page navigation (both adaptable)**
 
